@@ -1,0 +1,55 @@
+*
+{
+	margin: 10px;
+	padding: 10px;
+}
+body
+{
+	background-color: #003333;
+	color:#FFFFFF ;
+	font-family: verdana;
+}
+header
+{
+	height: 100px;
+	background-color: #008B8B;
+}
+nav
+{
+	height: 50px;
+	background-color: #8FBC8F;
+}
+section
+{
+	
+	height: 150px;
+	width: 65%;
+	float: left;
+}
+aside
+{
+	background-color: goldenrod;
+	height: 300px;
+	width: 25%;
+	float: right;
+}
+footer
+{
+	background-color: #70CAEE;
+	height: 300px;
+	float: bottom;
+}
+img 
+{
+	height: 300px;
+	width: 300px;
+}
+h4
+{
+	background-color: #A5EEA0;
+}
+table
+{
+	background: #1E90FF;
+}
+
